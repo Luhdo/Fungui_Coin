@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:crafting_shapeless",
+  "ingredients": [
+    {
+      "item": "funguicoin:fungui_piece"
+    }
+  ],
+  "result": {
+    "item": "funguicoin:funguicoin",
+    "count": 9
+  }
+}
