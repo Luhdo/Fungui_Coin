@@ -2,5 +2,8 @@
   "item.funguicoin.raw_funguicoin": "Raw Fungui Coin",
   "item.funguicoin.funguicoin": "Fungui Coin",
 
+  "block.funguicoin.fungui_piece": "Fungui Piece",
+  "block.funguicoin.funguicoin_ore": "Fungui Coin Ore",
+
   "itemGroup.funguicoin.funguicoin": "Fungui"
 }

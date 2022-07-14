@@ -1,6 +1,7 @@
 package net.ludho.funguicoin;
 
 import net.fabricmc.api.ModInitializer;
+import net.ludho.funguicoin.block.ModBlocks;
 import net.ludho.funguicoin.item.ModItems;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
@@ -13,6 +14,7 @@ public class FunguiCoin implements ModInitializer {
 	public void onInitialize() {
 
 		ModItems.registerModItems();
+		ModBlocks.registerModBlocks();
 
 	}
 }

@@ -3,6 +3,8 @@
         "entrypoints",
         "fabricloader",
         "funguicoin",
-        "modid"
+        "FUNGUIPIECE",
+        "modid",
+        "thirdperson"
     ]
 }

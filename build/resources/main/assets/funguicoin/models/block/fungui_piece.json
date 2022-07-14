@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "funguicoin:block/piece2",
+    "up": "funguicoin:block/piece2",
+    "north": "funguicoin:block/piece",
+    "east": "funguicoin:block/piece2",
+    "south": "funguicoin:block/piece",
+    "west": "funguicoin:block/piece2",
+    "particle": "funguicoin:block/coin"
+  }
+}

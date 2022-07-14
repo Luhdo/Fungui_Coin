@@ -3,12 +3,12 @@
   "id": "funguicoin",
   "version": "0.0.1-1.19",
 
-  "name": "Tutorial Mod",
-  "description": "This is an example description! Tell everyone what your mod is about!",
+  "name": "Fungui Coin",
+  "description": "Fungui server's main currency",
   "authors": ["Ludho"],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://ludho.xyz/",
+    "sources": "https://github.com/Luhdo/Fungui_Coin"
   },
 
   "license": "MIT License",

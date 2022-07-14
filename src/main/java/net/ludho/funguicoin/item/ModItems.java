@@ -4,13 +4,14 @@ import net.fabricmc.fabric.api.item.v1.FabricItemSettings;
 import net.ludho.funguicoin.FunguiCoin;
 import net.minecraft.item.Item;
 import net.minecraft.util.Identifier;
+import net.minecraft.util.Rarity;
 import net.minecraft.util.registry.Registry;
 
 public class ModItems {
     public static final Item RAW_FUNGUICOIN = registerItem("raw_funguicoin",
-            new Item(new FabricItemSettings().group(ModItemGroup.FUNGUICOIN)));
+            new Item(new FabricItemSettings().group(ModItemGroup.FUNGUICOIN).rarity(Rarity.UNCOMMON)));
     public static final Item FUNGUICOIN = registerItem("funguicoin",
-            new Item(new FabricItemSettings().group(ModItemGroup.FUNGUICOIN)));
+            new Item(new FabricItemSettings().group(ModItemGroup.FUNGUICOIN).rarity(Rarity.UNCOMMON)));
 
     private static Item registerItem(String name, Item item) {
         return Registry.register(Registry.ITEM, new Identifier(FunguiCoin.MOD_ID, name), item);
