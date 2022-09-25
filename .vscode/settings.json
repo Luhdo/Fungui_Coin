@@ -6,6 +6,9 @@
         "funguicoin",
         "FUNGUIPIECE",
         "modid",
+        "OVERWORLD",
+        "REPLACEABLES",
         "thirdperson"
-    ]
+    ],
+    "java.configuration.updateBuildConfiguration": "interactive"
 }
