@@ -1,7 +1,7 @@
 {
   "schemaVersion": 1,
   "id": "funguicoin",
-  "version": "0.0.2-1.19",
+  "version": "0.0.2-1.19.2",
 
   "name": "Fungui Coin",
   "description": "Fungui server's main currency",
