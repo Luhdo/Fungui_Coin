@@ -9,6 +9,7 @@
   - Fungui Piece and FunguiCoin Ore.
   - recipes to convert FunguiCoin To Fungui Piece.[^1] 
   - smelting raw FunguiCoin to FunguiCoin
+  - generates FunguiCoin ores around the overworld
 
   
 ![demo](./.vscode/demo.jpg)
@@ -40,7 +41,7 @@
 
 ---
 ## Is This Mod Server Side?
-No! but I look forward to anyone that could contribute to me making it happen.
+No! but I look forward to anyone that could contribute to me making it happen. 
 
 
 [^1]: **1** Fungui Piece = **9** FunguiCoin, also the reverse.
